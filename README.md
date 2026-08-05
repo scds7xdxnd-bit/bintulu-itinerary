@@ -13,7 +13,7 @@ from **Kuala Lumpur (KUL) → Bintulu (BTU)**, Sarawak — **7–9 August**.
 - **Insurance:** Generali domestic PA
 
 ## Days
-- **Day 1** — land 12:20, collect car at terminal, laksa lunch, check in 3 PM, Tanjung Batu sunset, night market, esplanade
+- **Day 1** — land 12:20, wait at terminal for the fixed 3 PM Avis pickup, check in 3:45 PM, Tanjung Batu sunset, night market, esplanade
 - **Day 2** — Similajau National Park (self-guided), packed picnic, Kampung Jepak, Masjid Assyakirin, free bridge sunset
 - **Day 3** — kopitiam breakfast, Pasar Tamu, checkout before 1 PM, farewell lunch, refuel, car return, fly home
 
