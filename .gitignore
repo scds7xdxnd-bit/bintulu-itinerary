@@ -1,1 +1,5 @@
 .vercel
+
+# Personal booking documents — never publish
+*.pdf
+*.PDF
