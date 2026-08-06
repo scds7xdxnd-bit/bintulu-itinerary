@@ -4,8 +4,8 @@ Mobile-first single-page itinerary for a low-cost 3-day, 2-night group trip (7 t
 from **Kuala Lumpur (KUL) → Bintulu (BTU)**, Sarawak — **7–9 August**.
 
 ## Flights — Batik Air
-- **Out** — Thu 7 Aug: OD1722, KUL (KLIA T1) 10:00 → BTU 12:20
-- **Back** — Sat 9 Aug: OD1727, BTU 17:40 → KUL (KLIA T1) 19:55
+- **Out** — Fri 7 Aug: OD1722, KUL (KLIA T1) 10:00 → BTU 12:20
+- **Back** — Sun 9 Aug: OD1727, BTU 17:40 → KUL (KLIA T1) 19:55
 
 ## Bookings
 - **Hotel:** Imperial Hotel Bintulu — 3× Superior King, check-in from 3 PM, checkout before 1 PM, no meals
